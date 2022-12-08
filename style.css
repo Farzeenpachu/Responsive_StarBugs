@@ -1,0 +1,42 @@
+ @media only screen and ( max-width:760px) {
+   .logo{
+    width: 40px !important;
+    margin-left: 5px !important;
+    
+   } 
+}
+ .img-1{
+    min-height: 100vh;
+    background-image: url(137-82266.png);
+    background-position: center;
+    background-size: cover;
+
+} 
+.img-2{
+    min-height: 100vh;
+    background-image: url(137-82314\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+
+} 
+.img-3{
+    min-height: 100vh;
+    background-image: url(137-81288\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+
+} 
+.img-4{
+    min-height: 60vh;
+    background-image: url(137-82316.png);
+    background-position: center;
+    background-size: cover;
+
+} 
+.img-5{
+    min-height: 60vh;
+    background-image: url(137-81287\ \(2\).jpg);
+    background-position: center;
+    background-size: cover;
+
+} 
